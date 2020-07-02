@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1bda861-ed05-47ed-87ca-a90ef6f02bfa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\e\workeSpace\spring-cloud" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\MyMavenp" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e5QWEEfJsB2g6gqvW8a1BTzjmF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hello-spring-cloud-service-admin/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.21722114" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hello-spring-cloud-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zhanghub.hello.spring.cloud.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.zhanghub.hello.spring.cloud.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-spring-cloud-service-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.zhanghub.hello.spring.cloud.service.admin.ServiceAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1bda861-ed05-47ed-87ca-a90ef6f02bfa" name="Default Changelist" comment="" />
+      <created>1593609003103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593609003103</updated>
+      <workItem from="1593609004427" duration="2408000" />
+      <workItem from="1593690351279" duration="4173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="194" width="1174" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593694445548">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" width="1174" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593694445548" />
+    <state x="761" y="296" key="FileChooserDialogImpl" timestamp="1593693240278">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="761" y="296" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1593693240278" />
+    <state x="772" y="416" key="Github.ShareDialog" timestamp="1593693866861">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="772" y="416" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593693866861" />
+    <state x="602" y="244" key="Github.UntrackedFilesDialog" timestamp="1593693887459">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="602" y="244" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593693887459" />
+    <state width="1877" height="501" key="GridCell.Tab.0.bottom" timestamp="1593694326330">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="501" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
+    <state width="1877" height="501" key="GridCell.Tab.0.center" timestamp="1593694326330">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="501" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
+    <state width="1877" height="501" key="GridCell.Tab.0.left" timestamp="1593694326330">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="501" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
+    <state width="1877" height="501" key="GridCell.Tab.0.right" timestamp="1593694326330">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="501" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
+    <state width="1877" height="501" key="GridCell.Tab.1.bottom" timestamp="1593694326330">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="501" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
+    <state width="1877" height="501" key="GridCell.Tab.1.center" timestamp="1593694326330">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="501" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
+    <state width="1877" height="501" key="GridCell.Tab.1.left" timestamp="1593694326330">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="501" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
+    <state width="1877" height="501" key="GridCell.Tab.1.right" timestamp="1593694326330">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="501" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
+    <state x="621" y="304" key="NewModule_or_Project.wizard" timestamp="1593609505187">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="621" y="304" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1593609505187" />
+    <state x="225" y="85" key="SettingsEditor" timestamp="1593692174522">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="225" y="85" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1593692174522" />
+    <state x="567" y="240" width="786" height="600" key="find.popup" timestamp="1593690535005">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="567" y="240" width="786" height="600" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1593690535005" />
+  </component>
+</project>
