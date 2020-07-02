@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1bda861-ed05-47ed-87ca-a90ef6f02bfa" name="Default Changelist" comment="" />
+    <list default="true" id="a1bda861-ed05-47ed-87ca-a90ef6f02bfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-dependencies/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/cn/zhanghub/hello/spring/cloud/web/admin/feign/WebAdminFeignApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/cn/zhanghub/hello/spring/cloud/web/admin/feign/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/cn/zhanghub/hello/spring/cloud/web/admin/feign/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/resources/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/cn/zhanghub/hello/spring/cloud/service/admin/ServiceAdminApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/cn/zhanghub/hello/spring/cloud/service/admin/ServiceAdminApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/cn/zhanghub/hello/spring/cloud/service/admin/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/cn/zhanghub/hello/spring/cloud/service/admin/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-service-admin/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-service-admin/target/classes/cn/zhanghub/hello/spring/cloud/service/admin/ServiceAdminApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/target/classes/cn/zhanghub/hello/spring/cloud/service/admin/ServiceAdminApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/cn/zhanghub/hello/spring/cloud/web/admin/ribbon/WebAdminRibbonApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/cn/zhanghub/hello/spring/cloud/web/admin/ribbon/WebAdminRibbonApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/cn/zhanghub/hello/spring/cloud/web/admin/ribbon/cfg/RestTemplateConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/cn/zhanghub/hello/spring/cloud/web/admin/ribbon/cfg/RestTemplateConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/cn/zhanghub/hello/spring/cloud/web/admin/ribbon/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/cn/zhanghub/hello/spring/cloud/web/admin/ribbon/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/cn/zhanghub/hello/spring/cloud/web/admin/ribbon/service/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/cn/zhanghub/hello/spring/cloud/web/admin/ribbon/service/AdminService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,8 +52,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1e5QWEEfJsB2g6gqvW8a1BTzjmF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -41,11 +69,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hello-spring-cloud-service-admin/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="settings.editor.splitter.proportion" value="0.21722114" />
@@ -53,7 +81,35 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaApplication">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\e\workeSpace\spring-cloud\hello-spring-cloud-web-admin-ribbon\src\main\resources" />
+      <recent name="E:\e\workeSpace\spring-cloud\hello-spring-cloud-service-admin\src\main\resources" />
+      <recent name="E:\e\workeSpace\spring-cloud\hello-spring-cloud-eureka\src\main\resources" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 3 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 3 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="hello-spring-cloud-web-admin-feign" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WebAdminFeignApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -87,9 +143,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="ServiceAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
       <module name="hello-spring-cloud-service-admin" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.zhanghub.hello.spring.cloud.service.admin.ServiceAdminApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebAdminFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hello-spring-cloud-web-admin-feign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zhanghub.hello.spring.cloud.web.admin.feign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.zhanghub.hello.spring.cloud.web.admin.feign.WebAdminFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebAdminRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-spring-cloud-web-admin-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.zhanghub.hello.spring.cloud.web.admin.ribbon.WebAdminRibbonApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,11 +180,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ServiceAdminApplication" />
+      <item itemvalue="Spring Boot.WebAdminRibbonApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.WebAdminFeignApplication" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.WebAdminFeignApplication" />
         <item itemvalue="Spring Boot.EurekaApplication" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
@@ -120,7 +226,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593609003103</updated>
       <workItem from="1593609004427" duration="2408000" />
-      <workItem from="1593690351279" duration="4173000" />
+      <workItem from="1593690351279" duration="14206000" />
     </task>
     <servers />
   </component>
@@ -128,14 +234,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="194" width="1174" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593694445548">
+    <state x="552" y="198" key="#Project_Structure" timestamp="1593703980254">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="414" y="194" width="1174" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593694445548" />
-    <state x="761" y="296" key="FileChooserDialogImpl" timestamp="1593693240278">
+    <state x="552" y="198" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1593703980254" />
+    <state x="414" y="194" width="1411" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593700729399">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="761" y="296" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1593693240278" />
+    <state x="414" y="194" width="1411" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593700729399" />
+    <state x="761" y="296" key="FileChooserDialogImpl" timestamp="1593703850485">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="761" y="296" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1593703850485" />
     <state x="772" y="416" key="Github.ShareDialog" timestamp="1593693866861">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -144,38 +254,38 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="602" y="244" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593693887459" />
-    <state width="1877" height="501" key="GridCell.Tab.0.bottom" timestamp="1593694326330">
+    <state width="1281" height="544" key="GridCell.Tab.0.bottom" timestamp="1593704727993">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="501" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
-    <state width="1877" height="501" key="GridCell.Tab.0.center" timestamp="1593694326330">
+    <state width="1281" height="544" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593704727993" />
+    <state width="1281" height="544" key="GridCell.Tab.0.center" timestamp="1593704727993">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="501" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
-    <state width="1877" height="501" key="GridCell.Tab.0.left" timestamp="1593694326330">
+    <state width="1281" height="544" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593704727993" />
+    <state width="1281" height="544" key="GridCell.Tab.0.left" timestamp="1593704727992">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="501" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
-    <state width="1877" height="501" key="GridCell.Tab.0.right" timestamp="1593694326330">
+    <state width="1281" height="544" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593704727992" />
+    <state width="1281" height="544" key="GridCell.Tab.0.right" timestamp="1593704727993">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="501" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
-    <state width="1877" height="501" key="GridCell.Tab.1.bottom" timestamp="1593694326330">
+    <state width="1281" height="544" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593704727993" />
+    <state width="1281" height="544" key="GridCell.Tab.1.bottom" timestamp="1593704727993">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="501" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
-    <state width="1877" height="501" key="GridCell.Tab.1.center" timestamp="1593694326330">
+    <state width="1281" height="544" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593704727993" />
+    <state width="1281" height="544" key="GridCell.Tab.1.center" timestamp="1593704727993">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="501" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
-    <state width="1877" height="501" key="GridCell.Tab.1.left" timestamp="1593694326330">
+    <state width="1281" height="544" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593704727993" />
+    <state width="1281" height="544" key="GridCell.Tab.1.left" timestamp="1593704727993">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="501" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
-    <state width="1877" height="501" key="GridCell.Tab.1.right" timestamp="1593694326330">
+    <state width="1281" height="544" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593704727993" />
+    <state width="1281" height="544" key="GridCell.Tab.1.right" timestamp="1593704727993">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="501" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593694326330" />
+    <state width="1281" height="544" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593704727993" />
     <state x="621" y="304" key="NewModule_or_Project.wizard" timestamp="1593609505187">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

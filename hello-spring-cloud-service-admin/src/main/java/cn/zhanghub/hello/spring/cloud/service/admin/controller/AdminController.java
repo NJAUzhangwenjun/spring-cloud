@@ -1,11 +1,23 @@
 package cn.zhanghub.hello.spring.cloud.service.admin.controller;
 
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
 /**
- * @Description: TODO
- * @author 张文军
- * @Company: njauit.cn
- * @version: 1.0
- * @date 2020/7/221:34
+ * @author user
  */
+@RestController
 public class AdminController {
+
+	@Value("${server.port}")
+	private String port;
+
+	@RequestMapping(value = "hi", method = RequestMethod.GET)
+	public String sayHi(@RequestParam(value = "message") String message) {
+		return String.format("Hi，your message is : %s i am from port : %s", message, port);
+	}
 }

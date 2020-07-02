@@ -14,4 +14,5 @@ eureka:
     registerWithEureka: true
     fetchRegistry: true
     serviceUrl:
-      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+      #  服务于注册发现中心访问路径
+      defaultZone: http://localhost:8761/eureka/

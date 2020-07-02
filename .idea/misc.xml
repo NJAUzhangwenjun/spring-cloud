@@ -91,6 +91,8 @@
         <option value="$PROJECT_DIR$/hello-spring-cloud-dependencies/pom.xml" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-service-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/pom.xml" />
       </list>
     </option>
   </component>
