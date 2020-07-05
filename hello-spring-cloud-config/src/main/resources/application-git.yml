@@ -1,8 +1,0 @@
-#敏感信息不上传（内有密码）
-spring:
-  cloud:
-    config:
-      server:
-        git:
-          username: njauzhangwenjun
-          password: 32317128abc
