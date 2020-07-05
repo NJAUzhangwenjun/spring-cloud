@@ -1,15 +1,18 @@
 spring:
   application:
     name: hello-spring-cloud-config
+  # 将git密码引入
+  profiles:
+    include: git
   cloud:
     config:
       label: master
       server:
         git:
-          uri: https://github.com/topsale/spring-cloud-config
+          uri: https://github.com/NJAUzhangwenjun/spring-cloud-config.git
           search-paths: respo
-          username:
-          password:
+#          username:
+#          password:
 
 server:
   port: 8888

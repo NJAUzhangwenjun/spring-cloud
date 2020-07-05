@@ -35,3 +35,6 @@ build/
 # system ignore
 .DS_Store
 Thumbs.db
+
+#（内涵密码）
+hello-spring-cloud-config/src/main/resources/application-git.yml
